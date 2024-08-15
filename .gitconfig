@@ -3,3 +3,6 @@
 [user]
 	name = msconfiggg
 	email = 1466876532@qq.com
+
+[alias]
+    graph = log --all --graph --decorate --oneline
