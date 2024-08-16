@@ -121,3 +121,4 @@ alias mywsl='cd /mnt/c/Users/Lenovo/wsltest'
 
 # let python = python3
 alias python='python3'
+alias pyflakes='pyflakes3'
