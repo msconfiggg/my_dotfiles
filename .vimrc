@@ -88,9 +88,11 @@ call plug#begin()
 Plug 'preservim/NERDTree'
 Plug 'wikitopian/hardmode'
 Plug 'easymotion/vim-easymotion'
+Plug 'neomake/neomake'
 call plug#end()
 
 set tabstop=4        
 set softtabstop=4 
 set shiftwidth=4
 set autoindent
+
