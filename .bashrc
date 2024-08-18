@@ -118,6 +118,8 @@ fi
 
 # quick to my directory
 alias mywsl='cd /mnt/c/Users/Lenovo/wsltest'
+# quick to cs61b
+alias cs61b='cd /mnt/d/cs61b/sp21-s212'
 
 # let python = python3
 alias python='python3'
